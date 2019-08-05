@@ -1,2 +1,4 @@
-# Leetcode_problems
-C++ leetcode problems with it's name and ID
+# Leetcode problems
+
+Leetcode problems with it's ID and name.
+Language: *C++*
