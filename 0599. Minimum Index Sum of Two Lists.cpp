@@ -9,12 +9,12 @@ public:
         
         map<string, int> myMap;
             
-        // Añado todos los restaurantes de list1 a un map
+        // AÃ±ado todos los restaurantes de list1 a un map
         for (int i = 0; i < list1.size(); i++){
             myMap.insert ({list1[i], -(i+1)});
         }
         
-        // Busco si algun elemento de mi list2 está en el map
+        // Busco si algun elemento de mi list2 estÃ¡ en el map
         for (int i = 0; i < list2.size(); i++){
             
             // Si mi restaurante esta en el map, actualiza el valor
