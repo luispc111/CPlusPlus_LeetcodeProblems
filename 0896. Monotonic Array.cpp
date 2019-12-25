@@ -7,11 +7,11 @@ public:
         }
         bool b;
         if(A[0]<=A[A.size()-1]){
-            //el izq es más chico
+            //el izq es mÃ¡s chico
             b = true;
         }
         else{
-            //el der es más chico
+            //el der es mÃ¡s chico
             b = false;
         }
         
